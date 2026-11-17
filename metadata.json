@@ -1,0 +1,8 @@
+{
+  "name": "Remix RailFinance Quest DAY3",
+  "description": "Gamified Day 3 learning quest covering Module 3: Budget Approval Governance, NPV/IRR/PI Investment Appraisal, EVM Cost Control, and Oracle ERP Cloud CapEx/OpEx Integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
